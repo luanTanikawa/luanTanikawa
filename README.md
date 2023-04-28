@@ -1,17 +1,10 @@
-
-![luanTanikawa GitHub stats](https://github-readme-stats.vercel.app/api?username=luanTanikawa&show_icons=true&theme=tokyonight)
+<div>
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=luanTanikawa&show_icons=true&theme=tokyonight">
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=luanTanikawa&layout=compact&theme=tokyonight">
+</div>
 
 ### Minhas redes sociais
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-alves-tanikawa-14b718245/)
-
-### Tecnologias que eu mais utilizo
-<div>
-    <img alt = "html5" src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img alt = "CSS3" src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img alt = "JavaScript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanTanikawa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que estou estudando nesse momento
 <div>
