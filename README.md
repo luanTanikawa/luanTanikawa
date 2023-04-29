@@ -20,13 +20,14 @@
 
 ### Meus Projetos Pessoais
 
-- [Jokepô](https://luantanikawa.github.io/Jokenpo/)
-- [Pokedex](https://luantanikawa.github.io/Pokedex/)
-- [Área de Login](https://luantanikawa.github.io/Area-de-Login/)
+- <a href="https://luantanikawa.github.io/Jokenpo/" target="_blanck">Jokepô</a>
+- <a href="https://luantanikawa.github.io/Pokedex/" target="_blanck">Pokedex</a>
+- <a href="https://luantanikawa.github.io/Area-de-Login/" target="_blanck">Área de Login</a>
 
 ### Meus Trabalhos (Freelancer)
 
-- [Landing Page / Magda Marins ](https://magdamarins.com.br/)
+- <a href="https://magdamarins.com.br/" target="_blanck">Landing Page / Magda Marins</a>
+
 
 
 
