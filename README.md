@@ -24,7 +24,7 @@
 - <a href="https://luantanikawa.github.io/Pokedex/" target="_blanck">Pokedex</a>
 - <a href="https://luantanikawa.github.io/Area-de-Login/" target="_blanck">Área de Login</a>
 
-### Meus Trabalhos (Freelancer)
+### Projetos Freelancer
 
 - <a href="https://magdamarins.com.br/" target="_blanck">Landing Page / Magda Marins</a>
 
