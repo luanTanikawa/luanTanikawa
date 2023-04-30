@@ -21,7 +21,7 @@
 ### Projetos Feitos em Aula
 
 - <a href="https://luantanikawa.github.io/Bateria/" target="_blanck">Bateria</a>
-- <a href="https://luantanikawa.github.io/Cordel-Moderno/" target="_blanck">Cordel-Moderno</a>
+- <a href="https://luantanikawa.github.io/Projeto-Cordel/" target="_blanck">Cordel-Moderno</a>
 
 ### Projetos Pessoais
 
