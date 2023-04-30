@@ -18,7 +18,7 @@
     <img alt = "MySQL" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
-### Meus Projetos Pessoais
+### Projetos Pessoais
 
 - <a href="https://luantanikawa.github.io/Jokenpo/" target="_blanck">Jokepô</a>
 - <a href="https://luantanikawa.github.io/Pokedex/" target="_blanck">Pokedex</a>
