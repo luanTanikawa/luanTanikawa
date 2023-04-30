@@ -18,6 +18,10 @@
     <img alt = "MySQL" src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
 
+### Projetos Feitos em Aula
+
+- <a href="https://luantanikawa.github.io/Bateria/" target="_blanck">Bateria</a>
+
 ### Projetos Pessoais
 
 - <a href="https://luantanikawa.github.io/Jokenpo/" target="_blanck">Jokepô</a>
